@@ -9,6 +9,7 @@ class DemoApplicationTests {
     @Test
     void firstTest() {
         System.out.println("goods");
+        System.out.println("Nice");
     }
 
 }
